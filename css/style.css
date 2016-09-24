@@ -1,0 +1,242 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	font:12px/180% "微软雅黑";
+	
+	/*margin:auto;*/
+}
+#container{
+	width:1000px;
+	height:1171px;
+	/*background-color:#0C9;*/
+	margin:auto;
+	}
+	
+#head1{
+	width:980px;
+	height:87px;
+	/*background-color:#FC3;*/
+	margin:auto;
+}
+   .header1{
+	   width:445px;
+	   height:61px;
+	   margin: auto auto auto 55px;
+       padding-top: 18px;
+	   float:left;
+   }
+      .header11{
+	   width:80px;
+	   height:18px;
+       padding-right:4px;
+	   float:left;
+       }
+      .header12{
+	   width:80px;
+	   height:18px;
+	   float:left;
+	   
+       }
+   .header2{
+	   width:200px;
+	   height:14px;
+	   margin: auto 0px auto 280px;
+       padding-top: 31px;
+	   float:left;
+   }
+      
+	   
+#head2{
+	width:980px;
+	height:37px;
+	/*background-color:#C00;*/
+	margin:auto;
+	background-image:url(../img/red.png);
+}
+   .column1{
+	   width:70px;
+	   height:20px;
+	   margin:6px 0px 6px 23px;
+	   /*background-color:#999;*/
+	   float:left;
+	   color:#FFF;
+	   font-size:14px;
+   }
+   .column2{
+	   width:70px;
+	   height:20px;
+	   margin:6px 0px 6px 15px;
+	   /*background-color:#999;*/
+	   float:left;
+	   color:#FFF;
+	   font-size:14px;
+   }
+#head3{
+	width:980px;
+	height:311px;
+	/*background-color:#FF3;*/
+	margin:auto;
+}
+#head4{
+	width:980px;
+	height:5px;
+	/*background-color:#F28;*/
+	margin:auto;
+}
+#center1{
+	width:980px;
+	height:520px;
+	/*background-color:#0FF;*/
+	margin:auto;
+}
+  .center1left{
+	  width:543px;
+	  height:520px;
+	  /*background-color:#933;*/
+	  
+	  float:left;
+	  }
+	    .cleft1{
+			width:500px;
+			height:240px;
+			/*background-color:#999;*/
+			margin:10px;
+			padding:10px 0 0 10px;
+			color:#999;
+			line-height:25px;
+			}
+			.cleft11{
+				width:120px;
+				height:30px;
+				color:#999;
+				float:left;
+				font-size:13px;
+							}
+			.cleft12{
+				width:50px;
+				height:30px;
+				color:#999;
+				margin-left:300px;
+				float:left;
+				font-size:13px;
+				
+			}
+		.cleft2{
+			width:500px;
+			height:250px;
+			/*background-color:#9FC;*/
+			margin:10px;
+			color:#999;
+			line-height:25px;
+			
+			}
+  .center1right{
+	  width:420px;
+	  height:520px;
+	  /*background-color:#6C6;*/
+	  padding-right:17px;
+	  float:left;
+	  }
+	    .cright1{
+			width:430px;
+			height:200px;
+			/*background-color:#999;*/
+			}
+		.cright2{
+			width:420px;
+			height:130px;
+			/*background-color:#9FC;*/
+			margin:10px;
+			color:#999;
+			padding:10px 0 0 0;
+			font-size:13px;
+			}
+			.cright21{
+				width:67px;
+				height:60px;
+				float:left;
+				}
+			.cright22{
+				width:350px;
+				height:60px;
+				float:left;
+			}
+	    .cright3{
+			width:420px;
+			height:130px;
+			/*background-color:#990;*/
+			margin:10px;
+			color:#999;
+			font-size:13px;
+			}
+#center2{
+	width:980px;
+	height:105px;
+	/*background-color:#03F;*/
+	margin:auto;
+	border-top:1px solid #e5e5e5;
+	border-bottom:1px solid #e5e5e5;
+}
+   .center21{
+	   width:130px;
+	   height:80px;
+	   margin:10px 17px 15px 14px;
+	   float:left;
+	   background-color:#F6C;
+   }
+   .center22{
+	   width:130px;
+	   height:80px;
+	   margin:10px 17px 15px 17px;
+	   float:left;
+	   background-color:#F6C;
+   }
+   .center23{
+	   width:130px;
+	   height:80px;
+	   margin:10px 9px 15px 17px;
+	   float:left;
+	   background-color:#F6C;
+   }
+#footer{
+	width:980px;
+	height:106px;
+	/*background-color:#08F;*/
+	margin:auto;
+	padding:5px 0 0 0;
+}
+   .footer1{
+	   width:500px;
+	   height:60px;
+	   float:left;
+	   /*background-color:#99F;*/
+	   margin:10px;
+	   color:#333;
+	   line-height:25px;
+   }
+   .footer2{
+	   width:320px;
+	   height:60px;
+	   float:left;
+	   /*background-color:#99F;*/
+	   margin:50px 0 0 120px;
+	   padding:0 0 0 20px;
+	   
+   }
+       .footer21{
+		   width:300px;
+		   height:25px;
+		   /*background-color:#069;*/
+		   color:#333;
+		   letter-spacing:8px;
+	   }
+	   .footer22{
+		   width:320px;
+		   height:15px;
+		   /*background-color:#69F;
+		   color:white;*/
+		   letter-spacing:3px;
+		   
+	   }
+  
+	
