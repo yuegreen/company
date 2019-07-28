@@ -1,0 +1,24 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [114.329577684, 30.58141017095]
+        },
+        "properties": {
+            "title": "湖北大学",
+            "icon": "monument"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [114.3003403055019, 30.58031717484363]
+        },
+        "properties": {
+            "title": "武汉技术科技馆",
+            "icon": "harbor"
+        }
+    }]
+}
