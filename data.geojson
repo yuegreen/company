@@ -4,11 +4,12 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [114.329577684, 30.58141017095]
+            "coordinates": [114.329577684, 30.58141017095],
         },
         "properties": {
             "title": "湖北大学",
-            "icon": "monument"
+            "icon": "monument",
+            "time": 1563588000  //2019-07-20 10:00:00
         }
     }, {
         "type": "Feature",
@@ -18,7 +19,8 @@
         },
         "properties": {
             "title": "武汉技术科技馆",
-            "icon": "harbor"
+            "icon": "harbor",
+            "time": 1563674400  //2019-07-21 10:00:00
         }
     }]
 }
