@@ -1,0 +1,87 @@
+﻿{
+"type":"FeatureCollection",
+
+"features":[
+	{
+		"type":"Feature",
+		"properties":{
+			"order":"1",
+			"scale":"383",
+			"incidence":"47",
+			"mortality":"47",
+			"OIE":"28783",
+			"time":"1533225600"
+			},
+		"geometry":{
+			"type":"Point",
+			"coordinates":[123.533605,42.058914]
+		}
+	},
+	{
+		"type":"Feature",
+		"properties":{
+			"order":"9",
+			"scale":"97",
+			"incidence":"12",
+			"mortality":"9",
+			"OIE":"1643",
+			"time":"1533225600"},
+			"geometry":{"type":"Point",
+			"coordinates":[119.831606,31.342957]
+			}
+	},
+	{
+		"type":"Feature",
+		"properties":{
+			"order":"2",
+			"scale":"260",
+			"incidence":"30",
+			"mortality":"30",
+			"OIE":"5407",
+			"time":"1534348800"
+			},
+			"geometry":{
+				"type":"Point",
+				"coordinates":[113.631419,34.753439]
+				}
+	},
+{"type":"Feature","properties":{"order":"3","scale":"","incidence":"615","mortality":"88","OIE":"14686","time":"1534608000"},"geometry":{"type":"Point","coordinates":[119.169408,34.577456]}},
+{"type":"Feature","properties":{"order":"19","scale":"484","incidence":"56","mortality":"56","OIE":"1569","time":"1534694400"},"geometry":{"type":"Point","coordinates":[124.750815,43.467731]}},
+{"type":"Feature","properties":{"order":"4","scale":"规模小的养殖小区","incidence":"430","mortality":"340","OIE":"10612","time":"1534953600"},"geometry":{"type":"Point","coordinates":120.992502,28.11818}},
+{"type":"Feature","properties":{"order":"5","scale":"459","incidence":"185","mortality":"80","OIE":"2197","time":"1535558400"},"geometry":{"type":"Point","coordinates":[118.469145,30.982934]}},
+{"type":"Feature","properties":{"order":"6","scale":"285","incidence":"63","mortality":"42","OIE":"6656","time":"1535817600"},"geometry":{"type":"Point","coordinates":[118.64384,31.00428]}},
+{"type":"Feature","properties":{"order":"7","scale":"440","incidence":"153","mortality":"111","OIE":"2538","time":"1535817600"},"geometry":{"type":"Point","coordinates":[118.798863,31.013319]}},
+{"type":"Feature","properties":{"order":"8","scale":"308","incidence":"152","mortality":"83","OIE":"2744","time":"1535904000"},"geometry":{"type":"Point","coordinates":[118.678113,30.885937]}},
+{"type":"Feature","properties":{"order":"10","scale":"87","incidence":"39","mortality":"12","OIE":"8190","time":"1536076800"},"geometry":{"type":"Point","coordinates":[130.279241,46.808372]}},
+{"type":"Feature","properties":{"order":"13","scale":"30","incidence":"13","mortality":"4","OIE":"4534","time":"1536163200"},"geometry":{"type":"Point","coordinates":[118.411824,31.085679]}},
+{"type":"Feature","properties":{"order":"14","scale":"52","incidence":"15","mortality":"15","OIE":"1135","time":"1536163200"},"geometry":{"type":"Point","coordinates":[118.598439,30.925672]}},
+{"type":"Feature","properties":{"order":"11","scale":"886","incidence":"62","mortality":"22","OIE":"4563","time":"1536163200"},"geometry":{"type":"Point","coordinates":[117.539302,32.761581]}},
+{"type":"Feature","properties":{"order":"12","scale":"203","incidence":"26","mortality":"10","OIE":"11406","time":"1536163200"},"geometry":{"type":"Point","coordinates":[130.372612,46.813512]}},
+{"type":"Feature","properties":{"order":"15","scale":"219","incidence":"63","mortality":"23","OIE":"2175","time":"1536508800"},"geometry":{"type":"Point","coordinates":117.798568,30.958512}},
+{"type":"Feature","properties":{"order":"17","scale":"2087","incidence":"148","mortality":"64","OIE":"13007","time":"1536854400"},"geometry":{"type":"Point","coordinates":[113.663417,35.265809]}},
+{"type":"Feature","properties":{"order":"16","scale":"237","incidence":"16","mortality":"16","OIE":"653","time":"1536854400"},"geometry":{"type":"Point","coordinates":[116.118501,44.489761]}},
+{"type":"Feature","properties":{"order":"18","scale":"159","incidence":"14","mortality":"8","OIE":"1605","time":"1537113600"},"geometry":{"type":"Point","coordinates":[115.998604,42.247119]}},
+{"type":"Feature","properties":{"order":"20","scale":"138","incidence":"23","mortality":"22","OIE":"787","time":"1537372800"},"geometry":{"type":"Point","coordinates":[121.483548,45.066471]}},
+{"type":"Feature","properties":{"order":"21","scale":"388","incidence":"4","mortality":"2","OIE":"774","time":"1537718400"},"geometry":{"type":"Point","coordinates":[111.63047,40.814506]}},
+{"type":"Feature","properties":{"order":"22","scale":"44","incidence":"8","mortality":"3","OIE":"934","time":"1538064000"},"geometry":{"type":"Point","coordinates":123.974374,44.281638}},
+{"type":"Feature","properties":{"order":"22","scale":"44","incidence":"8","mortality":"3","OIE":"934","time":"1538064000"},"geometry":{"type":"Point","coordinates":123.974374,44.281638}},
+{"type":"Feature","properties":{"order":"22","scale":"44","incidence":"8","mortality":"3","OIE":"934","time":"1538064000"},"geometry":{"type":"Point","coordinates":[123.974374,44.281638]}},
+{"type":"Feature","properties":{"order":"23","scale":"378","incidence":"102","mortality":"102","OIE":"46643","time":"1538236800"},"geometry":{"type":"Point","coordinates":[122.51538,40.650802]}},
+{"type":"Feature","properties":{"order":"24","scale":"3358","incidence":"334","mortality":"93","OIE":"16423","time":"1538841600"},"geometry":{"type":"Point","coordinates":[122.51538,40.650802]}},
+{"type":"Feature","properties":{"order":"25","scale":"460","incidence":"160","mortality":"160","OIE":"8736","time":"1538928000"},"geometry":{"type":"Point","coordinates":[122.44255,41.41859]}},
+{"type":"Feature","properties":{"order":"26","scale":"1353","incidence":"20","mortality":"11","OIE":"20676","time":"1539187200"},"geometry":{"type":"Point","coordinates":[121.94646,39.398089]}},
+{"type":"Feature","properties":{"order":"27","scale":"120","incidence":"88","mortality":"72","OIE":"2998","time":"1539273600"},"geometry":{"type":"Point","coordinates":[122.340171,41.342398]}},
+{"type":"Feature","properties":{"order":"29","scale":"639","incidence":"292","mortality":"189","OIE":"11405","time":"1539273600"},"geometry":{"type":"Point","coordinates":[117.281007,39.846291]}},
+{"type":"Feature","properties":{"order":"28","scale":"81","incidence":"14","mortality":"14","OIE":"5514","time":"1539446400"},"geometry":{"type":"Point","coordinates":[122.307985,41.467937]}},
+{"type":"Feature","properties":{"order":"30","scale":"19938","incidence":"221","mortality":"221","OIE":"65770","time":"1539446400"},"geometry":{"type":"Point","coordinates":[121.783447,41.594428]}},
+{"type":"Feature","properties":{"order":"31","scale":"1571","incidence":"109","mortality":"109","OIE":"3887","time":"1539446400"},"geometry":{"type":"Point","coordinates":[122.044257,40.9556]}},
+{"type":"Feature","properties":{"order":"32","scale":"270","incidence":"129","mortality":"129","OIE":"631","time":"1539446400"},"geometry":{"type":"Point","coordinates":[122.008063,41.105613]}},
+{"type":"Feature","properties":{"order":"34","scale":"3223","incidence":"31","mortality":"20","OIE":"97165","time":"1539532800"},"geometry":{"type":"Point","coordinates":[122.008063,41.105613]}},
+{"type":"Feature","properties":{"order":"35","scale":"4323","incidence":"1030","mortality":"1030","OIE":"19068","time":"1539532800"},"geometry":{"type":"Point","coordinates":[122.088555,41.008179]}},
+{"type":"Feature","properties":{"order":"33","scale":"6640","incidence":"50","mortality":"14","OIE":"29320","time":"1539532800"},"geometry":{"type":"Point","coordinates":[123.822535,42.543519]}},
+{"type":"Feature","properties":{"order":"36","scale":"161","incidence":"43","mortality":"43","OIE":"2217","time":"1539619200"},"geometry":{"type":"Point","coordinates":[122.088555,41.008179]}},
+{"type":"Feature","properties":{"order":"37","scale":"160","incidence":"7","mortality":"4","OIE":"160","time":"1539705600"},"geometry":{"type":"Point","coordinates":[112.709463,40.019623]}},
+{"type":"Feature","properties":{"order":"38","scale":"804","incidence":"298","mortality":"298","OIE":"3446","time":"1539964800"},"geometry":{"type":"Point","coordinates":[104.579334,27.524264]}},
+{"type":"Feature","properties":{"order":"39","scale":"353","incidence":"247","mortality":"247","OIE":"5417","time":"1539964800"},"geometry":{"type":"Point","coordinates":[105.19219,27.564554]}}
+]
+}
