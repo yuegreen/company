@@ -9,7 +9,8 @@
 				"incidence": "47",
 				"mortality": "47",
 				"OIE": "28783",
-				"time": "1533225600"
+				"time": "1533225600",
+				"place": "辽宁沈阳市沈北新区"
 			},
 			"geometry": {
 				"type": "Point",
@@ -27,7 +28,8 @@
 				"incidence": "12",
 				"mortality": "9",
 				"OIE": "1643",
-				"time": "1533225600"
+				"time": "1533225600",
+				"place": "江苏无锡市宜兴市"
 			},
 			"geometry": {
 				"type": "Point",
@@ -45,7 +47,8 @@
 				"incidence": "30",
 				"mortality": "30",
 				"OIE": "5407",
-				"time": "1534348800"
+				"time": "1534348800",
+				"place": "河南郑州市经济开发区"
 			},
 			"geometry": {
 				"type": "Point",
@@ -63,7 +66,8 @@
 				"incidence": "615",
 				"mortality": "88",
 				"OIE": "14686",
-				"time": "1534608000"
+				"time": "1534608000",
+				"place": "江苏连云港市海州区"
 			},
 			"geometry": {
 				"type": "Point",
@@ -81,7 +85,8 @@
 				"incidence": "56",
 				"mortality": "56",
 				"OIE": "1569",
-				"time": "1534694400"
+				"time": "1534694400",
+				"place": "吉林公主岭市南崴子镇"
 			},
 			"geometry": {
 				"type": "Point",
@@ -95,11 +100,12 @@
 			"type": "Feature",
 			"properties": {
 				"order": "4",
-				"scale": "规模小的养殖小区",
+				"scale": "100",
 				"incidence": "430",
 				"mortality": "340",
 				"OIE": "10612",
-				"time": "1534953600"
+				"time": "1534953600",
+				"place": "浙江温州市乐清市"
 			},
 			"geometry": {
 				"type": "Point",
@@ -115,7 +121,8 @@
 				"incidence": "185",
 				"mortality": "80",
 				"OIE": "2197",
-				"time": "1535558400"
+				"time": "1535558400",
+				"place": "安徽芜湖市南陵县弋江镇"
 			},
 			"geometry": {
 				"type": "Point",
@@ -133,7 +140,8 @@
 				"incidence": "63",
 				"mortality": "42",
 				"OIE": "6656",
-				"time": "1535817600"
+				"time": "1535817600",
+				"place": "安徽宣城市宣州区古泉镇"
 			},
 			"geometry": {
 				"type": "Point",
@@ -151,7 +159,8 @@
 				"incidence": "153",
 				"mortality": "111",
 				"OIE": "2538",
-				"time": "1535817600"
+				"time": "1535817600",
+				"place": "安徽宣州区五星乡"
 			},
 			"geometry": {
 				"type": "Point",
@@ -169,7 +178,8 @@
 				"incidence": "152",
 				"mortality": "83",
 				"OIE": "2744",
-				"time": "1535904000"
+				"time": "1535904000",
+				"place": "安徽宣州区金坝办事处"
 			},
 			"geometry": {
 				"type": "Point",
@@ -187,7 +197,8 @@
 				"incidence": "39",
 				"mortality": "12",
 				"OIE": "8190",
-				"time": "1536076800"
+				"time": "1536076800",
+				"place": "黑龙江佳木斯市郊区长青乡"
 			},
 			"geometry": {
 				"type": "Point",
@@ -205,7 +216,8 @@
 				"incidence": "13",
 				"mortality": "4",
 				"OIE": "4534",
-				"time": "1536163200"
+				"time": "1536163200",
+				"place": "安徽芜湖市南陵县许镇镇"
 			},
 			"geometry": {
 				"type": "Point",
@@ -223,7 +235,8 @@
 				"incidence": "15",
 				"mortality": "15",
 				"OIE": "1135",
-				"time": "1536163200"
+				"time": "1536163200",
+				"place": "安徽宣城市宣州区天湖街道办事处"
 			},
 			"geometry": {
 				"type": "Point",
@@ -241,7 +254,8 @@
 				"incidence": "62",
 				"mortality": "22",
 				"OIE": "4563",
-				"time": "1536163200"
+				"time": "1536163200",
+				"place": "安徽滁州市凤阳县大庙镇"
 			},
 			"geometry": {
 				"type": "Point",
@@ -259,7 +273,8 @@
 				"incidence": "26",
 				"mortality": "10",
 				"OIE": "11406",
-				"time": "1536163200"
+				"time": "1536163200",
+				"place": "黑龙江佳木斯市向阳区"
 			},
 			"geometry": {
 				"type": "Point",
@@ -277,7 +292,8 @@
 				"incidence": "63",
 				"mortality": "23",
 				"OIE": "2175",
-				"time": "1536508800"
+				"time": "1536508800",
+				"place": "安徽铜陵市义安区"
 			},
 			"geometry": {
 				"type": "Point",
@@ -293,7 +309,8 @@
 				"incidence": "148",
 				"mortality": "64",
 				"OIE": "13007",
-				"time": "1536854400"
+				"time": "1536854400",
+				"place": "河南新乡市获嘉县"
 			},
 			"geometry": {
 				"type": "Point",
@@ -311,7 +328,8 @@
 				"incidence": "16",
 				"mortality": "16",
 				"OIE": "653",
-				"time": "1536854400"
+				"time": "1536854400",
+				"place": "内蒙古锡林郭勒阿巴嘎旗"
 			},
 			"geometry": {
 				"type": "Point",
@@ -329,7 +347,8 @@
 				"incidence": "14",
 				"mortality": "8",
 				"OIE": "1605",
-				"time": "1537113600"
+				"time": "1537113600",
+				"place": "内蒙古正蓝旗"
 			},
 			"geometry": {
 				"type": "Point",
@@ -347,7 +366,8 @@
 				"incidence": "23",
 				"mortality": "22",
 				"OIE": "787",
-				"time": "1537372800"
+				"time": "1537372800",
+				"place": "内蒙古兴安盟科尔沁右翼中旗"
 			},
 			"geometry": {
 				"type": "Point",
@@ -365,7 +385,8 @@
 				"incidence": "4",
 				"mortality": "2",
 				"OIE": "774",
-				"time": "1537718400"
+				"time": "1537718400",
+				"place": "内蒙古呼和浩特市回民区"
 			},
 			"geometry": {
 				"type": "Point",
@@ -383,46 +404,13 @@
 				"incidence": "8",
 				"mortality": "3",
 				"OIE": "934",
-				"time": "1538064000"
+				"time": "1538064000",
+				"place": "吉林松原市长岭县"
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [123.974374,
 				44.281638]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"order": "22",
-				"scale": "44",
-				"incidence": "8",
-				"mortality": "3",
-				"OIE": "934",
-				"time": "1538064000"
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [123.974374,
-				44.281638]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"order": "22",
-				"scale": "44",
-				"incidence": "8",
-				"mortality": "3",
-				"OIE": "934",
-				"time": "1538064000"
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					123.974374,
-					44.281638
-				]
 			}
 		},
 		{
@@ -433,7 +421,8 @@
 				"incidence": "102",
 				"mortality": "102",
 				"OIE": "46643",
-				"time": "1538236800"
+				"time": "1538236800",
+				"place": "辽宁营口市大石桥市、老边区"
 			},
 			"geometry": {
 				"type": "Point",
@@ -451,7 +440,8 @@
 				"incidence": "334",
 				"mortality": "93",
 				"OIE": "16423",
-				"time": "1538841600"
+				"time": "1538841600",
+				"place": "辽宁大石桥市"
 			},
 			"geometry": {
 				"type": "Point",
@@ -469,7 +459,8 @@
 				"incidence": "160",
 				"mortality": "160",
 				"OIE": "8736",
-				"time": "1538928000"
+				"time": "1538928000",
+				"place": "辽宁鞍山市台安县"
 			},
 			"geometry": {
 				"type": "Point",
@@ -487,7 +478,8 @@
 				"incidence": "20",
 				"mortality": "11",
 				"OIE": "20676",
-				"time": "1539187200"
+				"time": "1539187200",
+				"place": "辽宁大连市普兰店区"
 			},
 			"geometry": {
 				"type": "Point",
@@ -505,7 +497,8 @@
 				"incidence": "88",
 				"mortality": "72",
 				"OIE": "2998",
-				"time": "1539273600"
+				"time": "1539273600",
+				"place": "辽宁鞍山市台安县新台镇"
 			},
 			"geometry": {
 				"type": "Point",
@@ -523,7 +516,8 @@
 				"incidence": "292",
 				"mortality": "189",
 				"OIE": "11405",
-				"time": "1539273600"
+				"time": "1539273600",
+				"place": "天津蓟州区侯家营镇"
 			},
 			"geometry": {
 				"type": "Point",
@@ -541,7 +535,8 @@
 				"incidence": "14",
 				"mortality": "14",
 				"OIE": "5514",
-				"time": "1539446400"
+				"time": "1539446400",
+				"place": "辽宁鞍山市台安县桑林镇"
 			},
 			"geometry": {
 				"type": "Point",
@@ -559,7 +554,8 @@
 				"incidence": "221",
 				"mortality": "221",
 				"OIE": "65770",
-				"time": "1539446400"
+				"time": "1539446400",
+				"place": "辽宁锦州市北镇市"
 			},
 			"geometry": {
 				"type": "Point",
@@ -577,7 +573,8 @@
 				"incidence": "109",
 				"mortality": "109",
 				"OIE": "3887",
-				"time": "1539446400"
+				"time": "1539446400",
+				"place": "辽宁盘锦市大洼区王家街道曙光村"
 			},
 			"geometry": {
 				"type": "Point",
@@ -595,7 +592,8 @@
 				"incidence": "129",
 				"mortality": "129",
 				"OIE": "631",
-				"time": "1539446400"
+				"time": "1539446400",
+				"place": "辽宁大洼区王家街道王家村"
 			},
 			"geometry": {
 				"type": "Point",
@@ -613,7 +611,8 @@
 				"incidence": "31",
 				"mortality": "20",
 				"OIE": "97165",
-				"time": "1539532800"
+				"time": "1539532800",
+				"place": "辽宁大洼区王家街道"
 			},
 			"geometry": {
 				"type": "Point",
@@ -631,7 +630,8 @@
 				"incidence": "1030",
 				"mortality": "1030",
 				"OIE": "19068",
-				"time": "1539532800"
+				"time": "1539532800",
+				"place": "辽宁大洼区清水"
 			},
 			"geometry": {
 				"type": "Point",
@@ -649,7 +649,8 @@
 				"incidence": "50",
 				"mortality": "14",
 				"OIE": "29320",
-				"time": "1539532800"
+				"time": "1539532800",
+				"place": "辽宁铁岭市开原市庆云堡镇"
 			},
 			"geometry": {
 				"type": "Point",
@@ -667,7 +668,8 @@
 				"incidence": "43",
 				"mortality": "43",
 				"OIE": "2217",
-				"time": "1539619200"
+				"time": "1539619200",
+				"place": "辽宁盘锦市大洼区西安"
 			},
 			"geometry": {
 				"type": "Point",
@@ -685,7 +687,8 @@
 				"incidence": "7",
 				"mortality": "4",
 				"OIE": "160",
-				"time": "1539705600"
+				"time": "1539705600",
+				"place": "山西大同市左云县"
 			},
 			"geometry": {
 				"type": "Point",
@@ -703,7 +706,8 @@
 				"incidence": "298",
 				"mortality": "298",
 				"OIE": "3446",
-				"time": "1539964800"
+				"time": "1539964800",
+				"place": "云南昭通市镇雄县牛场镇"
 			},
 			"geometry": {
 				"type": "Point",
@@ -721,7 +725,8 @@
 				"incidence": "247",
 				"mortality": "247",
 				"OIE": "5417",
-				"time": "1539964800"
+				"time": "1539964800",
+				"place": "云南镇雄县母享镇"
 			},
 			"geometry": {
 				"type": "Point",
