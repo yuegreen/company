@@ -1,87 +1,2380 @@
-﻿{
-"type":"FeatureCollection",
-
-"features":[
-	{
-		"type":"Feature",
-		"properties":{
-			"order":"1",
-			"scale":"383",
-			"incidence":"47",
-			"mortality":"47",
-			"OIE":"28783",
-			"time":"1533225600"
-			},
-		"geometry":{
-			"type":"Point",
-			"coordinates":[123.533605,42.058914]
-		}
-	},
-	{
-		"type":"Feature",
-		"properties":{
-			"order":"9",
-			"scale":"97",
-			"incidence":"12",
-			"mortality":"9",
-			"OIE":"1643",
-			"time":"1533225600"},
-			"geometry":{"type":"Point",
-			"coordinates":[119.831606,31.342957]
-			}
-	},
-	{
-		"type":"Feature",
-		"properties":{
-			"order":"2",
-			"scale":"260",
-			"incidence":"30",
-			"mortality":"30",
-			"OIE":"5407",
-			"time":"1534348800"
-			},
-			"geometry":{
-				"type":"Point",
-				"coordinates":[113.631419,34.753439]
-				}
-	},
-{"type":"Feature","properties":{"order":"3","scale":"","incidence":"615","mortality":"88","OIE":"14686","time":"1534608000"},"geometry":{"type":"Point","coordinates":[119.169408,34.577456]}},
-{"type":"Feature","properties":{"order":"19","scale":"484","incidence":"56","mortality":"56","OIE":"1569","time":"1534694400"},"geometry":{"type":"Point","coordinates":[124.750815,43.467731]}},
-{"type":"Feature","properties":{"order":"4","scale":"规模小的养殖小区","incidence":"430","mortality":"340","OIE":"10612","time":"1534953600"},"geometry":{"type":"Point","coordinates":120.992502,28.11818}},
-{"type":"Feature","properties":{"order":"5","scale":"459","incidence":"185","mortality":"80","OIE":"2197","time":"1535558400"},"geometry":{"type":"Point","coordinates":[118.469145,30.982934]}},
-{"type":"Feature","properties":{"order":"6","scale":"285","incidence":"63","mortality":"42","OIE":"6656","time":"1535817600"},"geometry":{"type":"Point","coordinates":[118.64384,31.00428]}},
-{"type":"Feature","properties":{"order":"7","scale":"440","incidence":"153","mortality":"111","OIE":"2538","time":"1535817600"},"geometry":{"type":"Point","coordinates":[118.798863,31.013319]}},
-{"type":"Feature","properties":{"order":"8","scale":"308","incidence":"152","mortality":"83","OIE":"2744","time":"1535904000"},"geometry":{"type":"Point","coordinates":[118.678113,30.885937]}},
-{"type":"Feature","properties":{"order":"10","scale":"87","incidence":"39","mortality":"12","OIE":"8190","time":"1536076800"},"geometry":{"type":"Point","coordinates":[130.279241,46.808372]}},
-{"type":"Feature","properties":{"order":"13","scale":"30","incidence":"13","mortality":"4","OIE":"4534","time":"1536163200"},"geometry":{"type":"Point","coordinates":[118.411824,31.085679]}},
-{"type":"Feature","properties":{"order":"14","scale":"52","incidence":"15","mortality":"15","OIE":"1135","time":"1536163200"},"geometry":{"type":"Point","coordinates":[118.598439,30.925672]}},
-{"type":"Feature","properties":{"order":"11","scale":"886","incidence":"62","mortality":"22","OIE":"4563","time":"1536163200"},"geometry":{"type":"Point","coordinates":[117.539302,32.761581]}},
-{"type":"Feature","properties":{"order":"12","scale":"203","incidence":"26","mortality":"10","OIE":"11406","time":"1536163200"},"geometry":{"type":"Point","coordinates":[130.372612,46.813512]}},
-{"type":"Feature","properties":{"order":"15","scale":"219","incidence":"63","mortality":"23","OIE":"2175","time":"1536508800"},"geometry":{"type":"Point","coordinates":117.798568,30.958512}},
-{"type":"Feature","properties":{"order":"17","scale":"2087","incidence":"148","mortality":"64","OIE":"13007","time":"1536854400"},"geometry":{"type":"Point","coordinates":[113.663417,35.265809]}},
-{"type":"Feature","properties":{"order":"16","scale":"237","incidence":"16","mortality":"16","OIE":"653","time":"1536854400"},"geometry":{"type":"Point","coordinates":[116.118501,44.489761]}},
-{"type":"Feature","properties":{"order":"18","scale":"159","incidence":"14","mortality":"8","OIE":"1605","time":"1537113600"},"geometry":{"type":"Point","coordinates":[115.998604,42.247119]}},
-{"type":"Feature","properties":{"order":"20","scale":"138","incidence":"23","mortality":"22","OIE":"787","time":"1537372800"},"geometry":{"type":"Point","coordinates":[121.483548,45.066471]}},
-{"type":"Feature","properties":{"order":"21","scale":"388","incidence":"4","mortality":"2","OIE":"774","time":"1537718400"},"geometry":{"type":"Point","coordinates":[111.63047,40.814506]}},
-{"type":"Feature","properties":{"order":"22","scale":"44","incidence":"8","mortality":"3","OIE":"934","time":"1538064000"},"geometry":{"type":"Point","coordinates":123.974374,44.281638}},
-{"type":"Feature","properties":{"order":"22","scale":"44","incidence":"8","mortality":"3","OIE":"934","time":"1538064000"},"geometry":{"type":"Point","coordinates":123.974374,44.281638}},
-{"type":"Feature","properties":{"order":"22","scale":"44","incidence":"8","mortality":"3","OIE":"934","time":"1538064000"},"geometry":{"type":"Point","coordinates":[123.974374,44.281638]}},
-{"type":"Feature","properties":{"order":"23","scale":"378","incidence":"102","mortality":"102","OIE":"46643","time":"1538236800"},"geometry":{"type":"Point","coordinates":[122.51538,40.650802]}},
-{"type":"Feature","properties":{"order":"24","scale":"3358","incidence":"334","mortality":"93","OIE":"16423","time":"1538841600"},"geometry":{"type":"Point","coordinates":[122.51538,40.650802]}},
-{"type":"Feature","properties":{"order":"25","scale":"460","incidence":"160","mortality":"160","OIE":"8736","time":"1538928000"},"geometry":{"type":"Point","coordinates":[122.44255,41.41859]}},
-{"type":"Feature","properties":{"order":"26","scale":"1353","incidence":"20","mortality":"11","OIE":"20676","time":"1539187200"},"geometry":{"type":"Point","coordinates":[121.94646,39.398089]}},
-{"type":"Feature","properties":{"order":"27","scale":"120","incidence":"88","mortality":"72","OIE":"2998","time":"1539273600"},"geometry":{"type":"Point","coordinates":[122.340171,41.342398]}},
-{"type":"Feature","properties":{"order":"29","scale":"639","incidence":"292","mortality":"189","OIE":"11405","time":"1539273600"},"geometry":{"type":"Point","coordinates":[117.281007,39.846291]}},
-{"type":"Feature","properties":{"order":"28","scale":"81","incidence":"14","mortality":"14","OIE":"5514","time":"1539446400"},"geometry":{"type":"Point","coordinates":[122.307985,41.467937]}},
-{"type":"Feature","properties":{"order":"30","scale":"19938","incidence":"221","mortality":"221","OIE":"65770","time":"1539446400"},"geometry":{"type":"Point","coordinates":[121.783447,41.594428]}},
-{"type":"Feature","properties":{"order":"31","scale":"1571","incidence":"109","mortality":"109","OIE":"3887","time":"1539446400"},"geometry":{"type":"Point","coordinates":[122.044257,40.9556]}},
-{"type":"Feature","properties":{"order":"32","scale":"270","incidence":"129","mortality":"129","OIE":"631","time":"1539446400"},"geometry":{"type":"Point","coordinates":[122.008063,41.105613]}},
-{"type":"Feature","properties":{"order":"34","scale":"3223","incidence":"31","mortality":"20","OIE":"97165","time":"1539532800"},"geometry":{"type":"Point","coordinates":[122.008063,41.105613]}},
-{"type":"Feature","properties":{"order":"35","scale":"4323","incidence":"1030","mortality":"1030","OIE":"19068","time":"1539532800"},"geometry":{"type":"Point","coordinates":[122.088555,41.008179]}},
-{"type":"Feature","properties":{"order":"33","scale":"6640","incidence":"50","mortality":"14","OIE":"29320","time":"1539532800"},"geometry":{"type":"Point","coordinates":[123.822535,42.543519]}},
-{"type":"Feature","properties":{"order":"36","scale":"161","incidence":"43","mortality":"43","OIE":"2217","time":"1539619200"},"geometry":{"type":"Point","coordinates":[122.088555,41.008179]}},
-{"type":"Feature","properties":{"order":"37","scale":"160","incidence":"7","mortality":"4","OIE":"160","time":"1539705600"},"geometry":{"type":"Point","coordinates":[112.709463,40.019623]}},
-{"type":"Feature","properties":{"order":"38","scale":"804","incidence":"298","mortality":"298","OIE":"3446","time":"1539964800"},"geometry":{"type":"Point","coordinates":[104.579334,27.524264]}},
-{"type":"Feature","properties":{"order":"39","scale":"353","incidence":"247","mortality":"247","OIE":"5417","time":"1539964800"},"geometry":{"type":"Point","coordinates":[105.19219,27.564554]}}
-]
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 1,
+                "scale": 383,
+                "incidence": 47,
+                "mortality": 47,
+                "OIE": 28783,
+                "time": "1533225600",
+                "place": "辽宁沈阳市沈北新区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.533605,
+                    42.058914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 9,
+                "scale": 97,
+                "incidence": 12,
+                "mortality": 9,
+                "OIE": 1643,
+                "time": "1533225600",
+                "place": "江苏无锡市宜兴市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.831606,
+                    31.342957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 2,
+                "scale": 260,
+                "incidence": 30,
+                "mortality": 30,
+                "OIE": 5407,
+                "time": "1534348800",
+                "place": "河南郑州市经济开发区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.631419,
+                    34.753439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 3,
+                "scale": 100,
+                "incidence": 615,
+                "mortality": 88,
+                "OIE": 14686,
+                "time": "1534608000",
+                "place": "江苏连云港市海州区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.992502,
+                    28.11818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 19,
+                "scale": 484,
+                "incidence": 56,
+                "mortality": 56,
+                "OIE": 1569,
+                "time": "1534694400",
+                "place": "吉林公主岭市南崴子镇"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.750815,
+                    43.467731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 4,
+                "scale": 100,
+                "incidence": 430,
+                "mortality": 340,
+                "OIE": 10612,
+                "time": "1534953600",
+                "place": "浙江温州市乐清市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.169408,
+                    34.577456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 5,
+                "scale": 459,
+                "incidence": 185,
+                "mortality": 80,
+                "OIE": 2197,
+                "time": "1535558400",
+                "place": "安徽芜湖市南陵县弋江镇"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.469145,
+                    30.982934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 6,
+                "scale": 285,
+                "incidence": 63,
+                "mortality": 42,
+                "OIE": 6656,
+                "time": "1535817600",
+                "place": "安徽宣城市宣州区古泉镇"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.64384,
+                    31.00428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 7,
+                "scale": 440,
+                "incidence": 153,
+                "mortality": 111,
+                "OIE": 2538,
+                "time": "1535817600",
+                "place": "安徽宣州区五星乡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.798863,
+                    31.013319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 8,
+                "scale": 308,
+                "incidence": 152,
+                "mortality": 83,
+                "OIE": 2744,
+                "time": "1535904000",
+                "place": "安徽宣州区金坝办事处"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.678113,
+                    30.885937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 10,
+                "scale": 87,
+                "incidence": 39,
+                "mortality": 12,
+                "OIE": 8190,
+                "time": "1536076800",
+                "place": "黑龙江佳木斯市郊区长青乡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.279241,
+                    46.808372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 13,
+                "scale": 30,
+                "incidence": 13,
+                "mortality": 4,
+                "OIE": 4534,
+                "time": "1536163200",
+                "place": "安徽芜湖市南陵县许镇镇"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.411824,
+                    31.085679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 14,
+                "scale": 52,
+                "incidence": 15,
+                "mortality": 15,
+                "OIE": 1135,
+                "time": "1536163200",
+                "place": "安徽宣城市宣州区天湖街道办事处"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.539302,
+                    32.761581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 11,
+                "scale": 886,
+                "incidence": 62,
+                "mortality": 22,
+                "OIE": 4563,
+                "time": "1536163200",
+                "place": "安徽滁州市凤阳县大庙镇"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.598439,
+                    30.925672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 12,
+                "scale": 203,
+                "incidence": 26,
+                "mortality": 10,
+                "OIE": 11406,
+                "time": "1536163200",
+                "place": "黑龙江佳木斯市向阳区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.372612,
+                    46.813512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 15,
+                "scale": 219,
+                "incidence": 63,
+                "mortality": 23,
+                "OIE": 2175,
+                "time": "1536508800",
+                "place": "安徽铜陵市义安区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.118501,
+                    44.489761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 17,
+                "scale": 2087,
+                "incidence": 148,
+                "mortality": 64,
+                "OIE": 13007,
+                "time": "1536854400",
+                "place": "河南新乡市获嘉县"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.663417,
+                    35.265809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 16,
+                "scale": 237,
+                "incidence": 16,
+                "mortality": 16,
+                "OIE": 653,
+                "time": "1536854400",
+                "place": "内蒙古锡林郭勒阿巴嘎旗"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.798568,
+                    30.958512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 18,
+                "scale": 159,
+                "incidence": 14,
+                "mortality": 8,
+                "OIE": 1605,
+                "time": "1537113600",
+                "place": "内蒙古正蓝旗"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.998604,
+                    42.247119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 20,
+                "scale": 138,
+                "incidence": 23,
+                "mortality": 22,
+                "OIE": 787,
+                "time": "1537372800",
+                "place": "内蒙古兴安盟科尔沁右翼中旗"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.974374,
+                    44.281638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 21,
+                "scale": 388,
+                "incidence": 4,
+                "mortality": 2,
+                "OIE": 774,
+                "time": "1537718400",
+                "place": "内蒙古呼和浩特市回民区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.483548,
+                    45.066471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 22,
+                "scale": 44,
+                "incidence": 8,
+                "mortality": 3,
+                "OIE": 934,
+                "time": "1538064000",
+                "place": "吉林松原市长岭县"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.51538,
+                    40.650802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 23,
+                "scale": 378,
+                "incidence": 102,
+                "mortality": 102,
+                "OIE": 46643,
+                "time": "1538236800",
+                "place": "辽宁营口市大石桥市、老边区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.241575,
+                    40.673137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 24,
+                "scale": 3358,
+                "incidence": 334,
+                "mortality": 93,
+                "OIE": 16423,
+                "time": "1538841600",
+                "place": "辽宁营口市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.44255,
+                    41.41859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 25,
+                "scale": 460,
+                "incidence": 160,
+                "mortality": 160,
+                "OIE": 8736,
+                "time": "1538928000",
+                "place": "辽宁鞍山市台安县"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.94646,
+                    39.398089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 26,
+                "scale": 1353,
+                "incidence": 20,
+                "mortality": 11,
+                "OIE": 20676,
+                "time": "1539187200",
+                "place": "辽宁大连市普兰店区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.340171,
+                    41.342398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 27,
+                "scale": 120,
+                "incidence": 88,
+                "mortality": 72,
+                "OIE": 2998,
+                "time": "1539273600",
+                "place": "辽宁鞍山市台安县新台镇"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.281007,
+                    39.846291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 29,
+                "scale": 639,
+                "incidence": 292,
+                "mortality": 189,
+                "OIE": 11405,
+                "time": "1539273600",
+                "place": "天津蓟州区侯家营镇"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.307985,
+                    41.467937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 28,
+                "scale": 81,
+                "incidence": 14,
+                "mortality": 14,
+                "OIE": 5514,
+                "time": "1539446400",
+                "place": "辽宁鞍山市台安县桑林镇"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.783447,
+                    41.594428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 30,
+                "scale": 19938,
+                "incidence": 221,
+                "mortality": 221,
+                "OIE": 65770,
+                "time": "1539446400",
+                "place": "辽宁锦州市北镇市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.044257,
+                    40.9556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 31,
+                "scale": 1571,
+                "incidence": 109,
+                "mortality": 109,
+                "OIE": 3887,
+                "time": "1539446400",
+                "place": "辽宁盘锦市大洼区王家街道曙光村"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.63047,
+                    40.814506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 32,
+                "scale": 270,
+                "incidence": 129,
+                "mortality": 129,
+                "OIE": 631,
+                "time": "1539446400",
+                "place": "辽宁大洼区王家街道王家村"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.008063,
+                    41.105613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 34,
+                "scale": 3223,
+                "incidence": 31,
+                "mortality": 20,
+                "OIE": 97165,
+                "time": "1539532800",
+                "place": "辽宁大洼区王家街道"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.088555,
+                    41.008179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 35,
+                "scale": 4323,
+                "incidence": 1030,
+                "mortality": 1030,
+                "OIE": 19068,
+                "time": "1539532800",
+                "place": "辽宁大洼区清水"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.088555,
+                    41.008179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 33,
+                "scale": 6640,
+                "incidence": 50,
+                "mortality": 14,
+                "OIE": 29320,
+                "time": "1539532800",
+                "place": "辽宁铁岭市开原市庆云堡镇"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.822535,
+                    42.543519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 36,
+                "scale": 161,
+                "incidence": 43,
+                "mortality": 43,
+                "OIE": 2217,
+                "time": "1539619200",
+                "place": "辽宁盘锦市大洼区西安"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.579334,
+                    27.524264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 37,
+                "scale": 160,
+                "incidence": 7,
+                "mortality": 4,
+                "OIE": 160,
+                "time": "1539705600",
+                "place": "山西大同市左云县"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.088555,
+                    41.008179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 38,
+                "scale": 804,
+                "incidence": 298,
+                "mortality": 298,
+                "OIE": 3446,
+                "time": "1539964800",
+                "place": "云南昭通市镇雄县牛场镇"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.709463,
+                    40.019623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 39,
+                "scale": 353,
+                "incidence": 247,
+                "mortality": 247,
+                "OIE": 5417,
+                "time": "1539964800",
+                "place": "云南镇雄县母享镇"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.19219,
+                    27.564554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 40,
+                "scale": 2280,
+                "incidence": 56,
+                "mortality": 56,
+                "OIE": 5687,
+                "time": "1540051200",
+                "place": "浙江台州市三门县"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.495407,
+                    28.908694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 41,
+                "scale": 546,
+                "incidence": 44,
+                "mortality": 17,
+                "OIE": 6821,
+                "time": "1540137600",
+                "place": "湖南益阳市桃江县"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.311581,
+                    27.304095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 42,
+                "scale": 268,
+                "incidence": 208,
+                "mortality": 31,
+                "OIE": 43408,
+                "time": "1540137600",
+                "place": "湖南常德市桃源县"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.402554,
+                    29.110355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 43,
+                "scale": 10,
+                "incidence": 8,
+                "mortality": 8,
+                "OIE": 3652,
+                "time": "1540396800",
+                "place": "贵州毕节市赫章县"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.162541,
+                    28.523871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 44,
+                "scale": 49,
+                "incidence": 25,
+                "mortality": 25,
+                "OIE": 2319,
+                "time": "1540483200",
+                "place": "贵州七星关区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.733516,
+                    27.129052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 45,
+                "scale": 7684,
+                "incidence": 106,
+                "mortality": 99,
+                "OIE": 26279,
+                "time": "1540656000",
+                "place": "湖南常德市桃源县"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.495407,
+                    28.908694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 46,
+                "scale": 210,
+                "incidence": 75,
+                "mortality": 47,
+                "OIE": 210,
+                "time": "1540828800",
+                "place": "山西太原市阳曲县"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.983555,
+                    22.792498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 48,
+                "scale": 36,
+                "incidence": 5,
+                "mortality": 1,
+                "OIE": 457,
+                "time": "1540828800",
+                "place": "云南普洱市思茅区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.679409,
+                    38.064621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 47,
+                "scale": 144,
+                "incidence": 25,
+                "mortality": 22,
+                "OIE": 146,
+                "time": "1540828800",
+                "place": "湖南怀化市沅陵县"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.400431,
+                    28.459018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 49,
+                "scale": 47,
+                "incidence": 25,
+                "mortality": 7,
+                "OIE": 175,
+                "time": "1541174400",
+                "place": "山西太原市阳曲县西凌井乡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.843372,
+                    29.92667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 50,
+                "scale": 309,
+                "incidence": 3,
+                "mortality": 3,
+                "OIE": 7123,
+                "time": "1541260800",
+                "place": "重庆丰都县兴义镇"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.428664,
+                    38.142266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 51,
+                "scale": 119,
+                "incidence": 11,
+                "mortality": 4,
+                "OIE": 5795,
+                "time": "1541347200",
+                "place": "湖南湘西土家族苗族自治州保靖县"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.666474,
+                    28.705969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 52,
+                "scale": 821,
+                "incidence": 22,
+                "mortality": 4,
+                "OIE": 4566,
+                "time": "1541520000",
+                "place": "湖北黄冈市罗田县"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.432635,
+                    42.771535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 55,
+                "scale": 930,
+                "incidence": 144,
+                "mortality": 144,
+                "OIE": 1720,
+                "time": "1541606400",
+                "place": "吉林延边朝鲜族自治州龙井市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.405547,
+                    30.78891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 53,
+                "scale": 9,
+                "incidence": 4,
+                "mortality": 1,
+                "OIE": 3734,
+                "time": "1541606400",
+                "place": "湖南娄底市涟源市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.670562,
+                    27.698168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 54,
+                "scale": 154,
+                "incidence": 49,
+                "mortality": 49,
+                "OIE": 2781,
+                "time": "1541606400",
+                "place": "江西上饶市万年县"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.001536,
+                    25.424344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 56,
+                "scale": 4521,
+                "incidence": 85,
+                "mortality": 85,
+                "OIE": 20758,
+                "time": "1541606400",
+                "place": "福建莆田市城厢区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.064599,
+                    28.700054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 57,
+                "scale": 8339,
+                "incidence": 96,
+                "mortality": 47,
+                "OIE": 10286,
+                "time": "1541692800",
+                "place": "安徽池州市青阳县"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.853431,
+                    30.645634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 58,
+                "scale": 147,
+                "incidence": 7,
+                "mortality": 6,
+                "OIE": 280,
+                "time": "1541952000",
+                "place": "湖北黄冈市武穴市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.567392,
+                    29.850441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 59,
+                "scale": 636,
+                "incidence": 24,
+                "mortality": 13,
+                "OIE": 9267,
+                "time": "1542211200",
+                "place": "湖北浠水县"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.271569,
+                    30.457461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 60,
+                "scale": 40,
+                "incidence": 16,
+                "mortality": 10,
+                "OIE": 40,
+                "time": "1542211200",
+                "place": "四川宜宾市高县"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.524411,
+                    28.442511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 61,
+                "scale": 0,
+                "incidence": 1,
+                "mortality": 1,
+                "OIE": 1,
+                "time": "1542297600",
+                "place": "吉林白山市浑江区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.055577,
+                    27.852537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 62,
+                "scale": 1,
+                "incidence": 1,
+                "mortality": 1,
+                "OIE": 163,
+                "time": "1542297600",
+                "place": "云南昭通市威信县"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.827473,
+                    24.891871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 64,
+                "scale": 348,
+                "incidence": 0,
+                "mortality": 0,
+                "OIE": 348,
+                "time": "1542384000",
+                "place": "云南昆明市呈贡区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.42362,
+                    41.950424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 63,
+                "scale": 150,
+                "incidence": 10,
+                "mortality": 10,
+                "OIE": 1545,
+                "time": "1542384000",
+                "place": "江西上饶市鄱阳县"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.710566,
+                    29.011453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 65,
+                "scale": 110,
+                "incidence": 27,
+                "mortality": 13,
+                "OIE": 110,
+                "time": "1542384000",
+                "place": "四川成都市新津县"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.817433,
+                    30.416364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 66,
+                "scale": 314,
+                "incidence": 50,
+                "mortality": 11,
+                "OIE": 4229,
+                "time": "1542384000",
+                "place": "上海金山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.34848,
+                    30.747852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 67,
+                "scale": 900,
+                "incidence": 269,
+                "mortality": 269,
+                "OIE": 900,
+                "time": "1542556800",
+                "place": "黑龙江哈尔滨市道外区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.0464,
+                    27.585226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 68,
+                "scale": 73,
+                "incidence": 61,
+                "mortality": 55,
+                "OIE": 8238,
+                "time": "1542643200",
+                "place": "湖南怀化市鹤城区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.845538,
+                    40.647644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 71,
+                "scale": 88,
+                "incidence": 69,
+                "mortality": 53,
+                "OIE": 4469,
+                "time": "1542902400",
+                "place": "内蒙古包头市昆都仑区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.087132,
+                    39.786277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 69,
+                "scale": 1325,
+                "incidence": 0,
+                "mortality": 49,
+                "OIE": 1325,
+                "time": "1542902400",
+                "place": "北京房山区青龙湖镇"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.655604,
+                    45.797776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 70,
+                "scale": 429,
+                "incidence": 0,
+                "mortality": 37,
+                "OIE": 429,
+                "time": "1542902400",
+                "place": "北京琉璃河镇"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.099065,
+                    39.618866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 72,
+                "scale": 63,
+                "incidence": 9,
+                "mortality": 5,
+                "OIE": 2801,
+                "time": "1543075200",
+                "place": "湖北黄石市阳新县"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.221427,
+                    29.836542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 73,
+                "scale": 361,
+                "incidence": 0,
+                "mortality": 67,
+                "OIE": 7556,
+                "time": "1543420800",
+                "place": "天津宁河区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.832393,
+                    39.336956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 74,
+                "scale": 159,
+                "incidence": 16,
+                "mortality": 4,
+                "OIE": 407,
+                "time": "1543507200",
+                "place": "江西九江市柴桑区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.917402,
+                    29.614805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 77,
+                "scale": 375,
+                "incidence": 0,
+                "mortality": 77,
+                "OIE": 375,
+                "time": "1543680000",
+                "place": "黑龙江农垦总局北安管理局"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.663415,
+                    39.916017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 76,
+                "scale": 9835,
+                "incidence": 85,
+                "mortality": 17,
+                "OIE": 16543,
+                "time": "1543680000",
+                "place": "北京通州区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.49738,
+                    48.24742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 75,
+                "scale": 245,
+                "incidence": 205,
+                "mortality": 79,
+                "OIE": 21291,
+                "time": "1543680000",
+                "place": "陕西西安市鄂邑区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.946466,
+                    34.347269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 78,
+                "scale": 165,
+                "incidence": 68,
+                "mortality": 68,
+                "OIE": 26241,
+                "time": "1543939200",
+                "place": "四川泸州市合江县"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.838432,
+                    28.817793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 80,
+                "scale": 2461,
+                "incidence": 53,
+                "mortality": 26,
+                "OIE": 34757,
+                "time": "1543939200",
+                "place": "北京顺义区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.661424,
+                    40.136351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 79,
+                "scale": 245,
+                "incidence": 85,
+                "mortality": 64,
+                "OIE": 25347,
+                "time": "1543939200",
+                "place": "陕西西安市长安区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.629597,
+                    26.683588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 81,
+                "scale": 91,
+                "incidence": 45,
+                "mortality": 35,
+                "OIE": 28916,
+                "time": "1544025600",
+                "place": "山西临汾市尧都区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.50543,
+                    38.848544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 83,
+                "scale": 26,
+                "incidence": 5,
+                "mortality": 5,
+                "OIE": 1517,
+                "time": "1544284800",
+                "place": "贵州贵阳市白云区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.91358,
+                    34.16329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 82,
+                "scale": 33,
+                "incidence": 19,
+                "mortality": 19,
+                "OIE": 207,
+                "time": "1544284800",
+                "place": "陕西榆林市神木市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.775513,
+                    31.857686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 84,
+                "scale": 117,
+                "incidence": 51,
+                "mortality": 19,
+                "OIE": 219,
+                "time": "1544544000",
+                "place": "四川巴中市巴州区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.58643,
+                    36.084562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 85,
+                "scale": 69,
+                "incidence": 14,
+                "mortality": 14,
+                "OIE": 1308,
+                "time": "1544544000",
+                "place": "青海西宁市大通县"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.692564,
+                    36.932666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 87,
+                "scale": 84,
+                "incidence": 24,
+                "mortality": 24,
+                "OIE": 84,
+                "time": "1544889600",
+                "place": "黑龙江鸡西市鸡冠区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.987632,
+                    45.309806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 86,
+                "scale": 210,
+                "incidence": 35,
+                "mortality": 26,
+                "OIE": 210,
+                "time": "1544889600",
+                "place": "四川绵阳市盐亭县"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.233475,
+                    29.598347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 88,
+                "scale": 23,
+                "incidence": 8,
+                "mortality": 3,
+                "OIE": 3565,
+                "time": "1545062400",
+                "place": "重庆璧山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.395503,
+                    31.214319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 89,
+                "scale": 50,
+                "incidence": 11,
+                "mortality": 11,
+                "OIE": 1648,
+                "time": "1545148800",
+                "place": "广东珠海市香洲区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.550472,
+                    22.273004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 90,
+                "scale": 11950,
+                "incidence": 27,
+                "mortality": 27,
+                "OIE": 26277,
+                "time": "1545235200",
+                "place": "福建三明市尤溪县"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.19744,
+                    26.176218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 91,
+                "scale": 156,
+                "incidence": 42,
+                "mortality": 42,
+                "OIE": 3021,
+                "time": "1545321600",
+                "place": "贵州黔南州龙里县"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.986586,
+                    26.459081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 92,
+                "scale": 6027,
+                "incidence": 30,
+                "mortality": 9,
+                "OIE": 20071,
+                "time": "1545408000",
+                "place": "广东广州市黄埔区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.188451,
+                    26.643808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 93,
+                "scale": 5776,
+                "incidence": 35,
+                "mortality": 11,
+                "OIE": 38044,
+                "time": "1545580800",
+                "place": "福建南平市延平区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.487071,
+                    23.187492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 94,
+                "scale": 90,
+                "incidence": 11,
+                "mortality": 11,
+                "OIE": 1527,
+                "time": "1545667200",
+                "place": "广东惠州市博罗县"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.296573,
+                    23.178806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 95,
+                "scale": 8016,
+                "incidence": 24,
+                "mortality": 7,
+                "OIE": 8016,
+                "time": "1546099200",
+                "place": "山西晋城市泽州县"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.794401,
+                    35.59977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 96,
+                "scale": 73000,
+                "incidence": 4686,
+                "mortality": 3766,
+                "OIE": 73654,
+                "time": "1546272000",
+                "place": "黑龙江绥化市明水县"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125.912483,
+                    47.179483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 97,
+                "scale": 68969,
+                "incidence": 2452,
+                "mortality": 1369,
+                "OIE": 71414,
+                "time": "1547222400",
+                "place": "江苏宿迁市泗阳县"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.709466,
+                    33.728328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 98,
+                "scale": 109,
+                "incidence": 44,
+                "mortality": 9,
+                "OIE": 123,
+                "time": "1547308800",
+                "place": "甘肃庆阳市庆城县驿马镇"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.617441,
+                    35.906601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 99,
+                "scale": 190,
+                "incidence": 143,
+                "mortality": 37,
+                "OIE": 2093,
+                "time": "1547740800",
+                "place": "甘肃兰州市七里河区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.792414,
+                    36.072129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 100,
+                "scale": 57,
+                "incidence": 26,
+                "mortality": 13,
+                "OIE": 2250,
+                "time": "1547827200",
+                "place": "宁夏永宁县望远镇"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.25958,
+                    38.37218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 101,
+                "scale": 4600,
+                "incidence": 270,
+                "mortality": 171,
+                "OIE": 4776,
+                "time": "1549555200",
+                "place": "湖南永州市经济技术开发区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.619455,
+                    26.425864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 102,
+                "scale": 23555,
+                "incidence": 1629,
+                "mortality": 924,
+                "OIE": 23555,
+                "time": "1550419200",
+                "place": "广西北海市银海区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.146545,
+                    21.454769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 103,
+                "scale": 4504,
+                "incidence": 17,
+                "mortality": 3,
+                "OIE": 4504,
+                "time": "1550592000",
+                "place": "山东济南市莱芜区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.666591,
+                    36.208841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 104,
+                "scale": 300,
+                "incidence": 6,
+                "mortality": 2,
+                "OIE": 1304,
+                "time": "1550678400",
+                "place": "云南怒江州泸水市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.864586,
+                    25.829027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 106,
+                "scale": 222,
+                "incidence": 222,
+                "mortality": 210,
+                "OIE": 222,
+                "time": "1550937600",
+                "place": "内蒙古大兴安岭重点国有林管局桑都尔林场"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.348625,
+                    39.732555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 105,
+                "scale": 5600,
+                "incidence": 107,
+                "mortality": 107,
+                "OIE": 5600,
+                "time": "1550937600",
+                "place": "河北保定市徐水区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.66248,
+                    39.024713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 107,
+                "scale": 11334,
+                "incidence": 150,
+                "mortality": 62,
+                "OIE": 11334,
+                "time": "1551196800",
+                "place": "陕西榆林市靖边县"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.8006,
+                    37.605063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 108,
+                "scale": 3172,
+                "incidence": 24,
+                "mortality": 20,
+                "OIE": 3172,
+                "time": "1551888000",
+                "place": "广西贵港市港南区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.936403,
+                    30.341073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 109,
+                "scale": 150,
+                "incidence": 0,
+                "mortality": 9,
+                "OIE": 150,
+                "time": "1552320000",
+                "place": "四川广安市邻水县"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.606553,
+                    23.08124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 110,
+                "scale": 91,
+                "incidence": 9,
+                "mortality": 6,
+                "OIE": 91,
+                "time": "1553097600",
+                "place": "重庆石柱县"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.120414,
+                    30.006109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 111,
+                "scale": 142,
+                "incidence": 8,
+                "mortality": 5,
+                "OIE": 142,
+                "time": "1553875200",
+                "place": "湖北恩施土家族苗族自治州利川市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.942481,
+                    30.297203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 111,
+                "scale": 83,
+                "incidence": 83,
+                "mortality": 73,
+                "OIE": 83,
+                "time": "1553875200",
+                "place": "湖北利川市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.942481,
+                    30.297203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 112,
+                "scale": 200,
+                "incidence": 15,
+                "mortality": 15,
+                "OIE": 200,
+                "time": "1554220800",
+                "place": "新疆乌鲁木齐市米东区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.662134,
+                    43.979247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 113,
+                "scale": 301,
+                "incidence": 196,
+                "mortality": 105,
+                "OIE": 301,
+                "time": "1554307200",
+                "place": "云南迪庆州香格里拉市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.707445,
+                    27.83576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 115,
+                "scale": 341,
+                "incidence": 39,
+                "mortality": 39,
+                "OIE": 341,
+                "time": "1554566400",
+                "place": "新疆喀什地区叶城县"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.420098,
+                    37.889167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 114,
+                "scale": 5664,
+                "incidence": 240,
+                "mortality": 32,
+                "OIE": 5664,
+                "time": "1554566400",
+                "place": "西藏林芝市巴宜区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    94.367544,
+                    29.641645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 114,
+                "scale": 7,
+                "incidence": 2,
+                "mortality": 2,
+                "OIE": 7,
+                "time": "1554566400",
+                "place": "西藏工布江达县"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    93.25242,
+                    29.891368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 114,
+                "scale": 79,
+                "incidence": 21,
+                "mortality": 21,
+                "OIE": 79,
+                "time": "1554566400",
+                "place": "西藏液密县"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.056614,
+                    39.406709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 116,
+                "scale": 583,
+                "incidence": 150,
+                "mortality": 92,
+                "OIE": 583,
+                "time": "1554912000",
+                "place": "新疆喀什地区疏勒县"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.587456,
+                    19.527146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 117,
+                "scale": 302,
+                "incidence": 28,
+                "mortality": 28,
+                "OIE": 302,
+                "time": "1555603200",
+                "place": "海南儋州市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    91.124342,
+                    29.652894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 117,
+                "scale": 419,
+                "incidence": 49,
+                "mortality": 49,
+                "OIE": 419,
+                "time": "1555603200",
+                "place": "海南万宁市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.399434,
+                    18.800107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 118,
+                "scale": 252,
+                "incidence": 252,
+                "mortality": 43,
+                "OIE": 252,
+                "time": "1555776000",
+                "place": "海南海口市秀英区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.300436,
+                    20.013642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 118,
+                "scale": 172,
+                "incidence": 62,
+                "mortality": 62,
+                "OIE": 172,
+                "time": "1555776000",
+                "place": "海南澄迈县"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.703482,
+                    18.64691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 118,
+                "scale": 7,
+                "incidence": 7,
+                "mortality": 7,
+                "OIE": 7,
+                "time": "1555776000",
+                "place": "海南保亭黎族苗族自治县"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.013511,
+                    19.744349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "order": 118,
+                "scale": 86,
+                "incidence": 34,
+                "mortality": 34,
+                "OIE": 34,
+                "time": "1555776000",
+                "place": "海南陵水黎族自治县"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.044464,
+                    18.512332
+                ]
+            }
+        }
+    ]
 }
